@@ -10,6 +10,7 @@ const Header = () => (
             className="social-network-img"
             src="https://assets.ccbp.in/frontend/react-js/projects-linkedin-img.png"
             alt="Linked In"
+            href="https://www.linkedin.com/in/dhinakar-sellamuthu/"
           />
         </li>
         <li>
@@ -17,6 +18,7 @@ const Header = () => (
             className="social-network-img"
             src="https://assets.ccbp.in/frontend/react-js/projects-github-img.png"
             alt="Git Hub"
+            href="https://github.com/DhinakarDhina"
           />
         </li>
         <li>
@@ -24,6 +26,7 @@ const Header = () => (
             className="social-network-img"
             src="https://assets.ccbp.in/frontend/react-js/projects-twitter-img.png"
             alt="Twitter"
+            href ="https://x.com/DhinakarsD46945?t=bSetsU-rTT9dVT6WDX1Gtg&s=09"
           />
         </li>
       </ul>
